@@ -1,0 +1,105 @@
+### **How to Use the Updated Script**  
+
+1. **Prepare Lab Data:**  
+   - Save your experimental results in a **CSV file** (e.g., `lab_data.csv`).  
+   - The CSV should have two columns:  
+     ```
+     Time,Conductivity
+     0,1.0
+     10,0.85
+     20,0.65
+     ... (more data points)
+     ```
+
+2. **Run the Script:**  
+   - Ensure `pandas` is installed (`pip install pandas`).  
+   - Replace `'lab_data.csv'` with the actual file path.  
+   - The script will **load lab data**, compare it to simulated models, and plot the results.
+
+3. **Expected Outcome:**  
+   - If **memory-driven physics is real**, experimental data will align with the **Memory Field model** (green line).  
+   - If no effect is observed, data will match the **standard conductivity decay model** (blue dashed line).  
+
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+from scipy.signal import savgol_filter
+from sklearn.metrics import mean_squared_error, r2_score
+
+def conductivity_decay(t, tau, noise=0.0):
+    """Model conductivity stabilization as an exponential decay process with optional noise."""
+    decay = np.exp(-t / tau) + np.random.normal(0, noise, len(t))
+    return np.clip(decay, 0, 1)  # Ensure values stay in valid range
+
+# Load real-world experimental data from CSV
+def load_experimental_data(csv_file):
+    """Load lab data from a CSV file. The CSV should have two columns: Time, Conductivity."""
+    try:
+        data = pd.read_csv(csv_file)
+        lab_time = data['Time'].values
+        lab_conductivity = data['Conductivity'].values
+        return lab_time, lab_conductivity
+    except Exception as e:
+        print(f"Error loading data: {e}")
+        return np.array([]), np.array([])
+
+# Time evolution (in arbitrary units)
+t_values = np.linspace(0, 100, 1000)
+
+# Define stabilization rates for each condition
+tau_control = 20   # Normal stabilization
+tau_memory = 50    # Faster stabilization due to memory field
+tau_entropy = 10   # Slower stabilization due to high-entropy noise
+
+# Compute conductivity stabilization over time
+control_stabilization = conductivity_decay(t_values, tau_control, noise=0.02)
+memory_stabilization = conductivity_decay(t_values, tau_memory, noise=0.01)
+entropy_stabilization = conductivity_decay(t_values, tau_entropy, noise=0.05)
+
+# Apply smoothing
+control_smooth = savgol_filter(control_stabilization, 51, 3)
+memory_smooth = savgol_filter(memory_stabilization, 51, 3)
+entropy_smooth = savgol_filter(entropy_stabilization, 51, 3)
+
+# Load experimental data (replace 'lab_data.csv' with actual file path)
+lab_time, lab_conductivity = load_experimental_data('lab_data.csv')
+
+# Perform statistical analysis if data exists
+if lab_time.size > 0 and lab_conductivity.size > 0:
+    lab_conductivity_smooth = savgol_filter(lab_conductivity, 5, 2)
+    
+    # Interpolate theoretical models to match experimental data points
+    control_interp = np.interp(lab_time, t_values, control_smooth)
+    memory_interp = np.interp(lab_time, t_values, memory_smooth)
+    entropy_interp = np.interp(lab_time, t_values, entropy_smooth)
+    
+    # Compute Mean Squared Errors
+    mse_control = mean_squared_error(lab_conductivity_smooth, control_interp)
+    mse_memory = mean_squared_error(lab_conductivity_smooth, memory_interp)
+    mse_entropy = mean_squared_error(lab_conductivity_smooth, entropy_interp)
+    
+    # Compute R-Squared Scores
+    r2_control = r2_score(lab_conductivity_smooth, control_interp)
+    r2_memory = r2_score(lab_conductivity_smooth, memory_interp)
+    r2_entropy = r2_score(lab_conductivity_smooth, entropy_interp)
+    
+    print(f"MSE - Control Model: {mse_control:.5f}, R²: {r2_control:.5f}")
+    print(f"MSE - Memory Field Model: {mse_memory:.5f}, R²: {r2_memory:.5f}")
+    print(f"MSE - High-Entropy Model: {mse_entropy:.5f}, R²: {r2_entropy:.5f}")
+
+# Plot the results
+plt.figure(figsize=(8, 5))
+plt.plot(t_values, control_smooth, label="Control (Standard Stabilization)", linestyle='dashed', color='blue')
+plt.plot(t_values, memory_smooth, label="Memory Field (Enhanced Stabilization)", linestyle='solid', color='green')
+plt.plot(t_values, entropy_smooth, label="High-Entropy (Slower Stabilization)", linestyle='dotted', color='red')
+
+if lab_time.size > 0 and lab_conductivity.size > 0:
+    plt.scatter(lab_time, lab_conductivity, label="Raw Experimental Data", color='black', marker='o', alpha=0.5)
+    plt.plot(lab_time, lab_conductivity_smooth, label="Smoothed Experimental Data", color='purple', linestyle='solid')
+
+plt.xlabel("Time (arbitrary units)")
+plt.ylabel("Relative Conductivity")
+plt.title("Simulated vs Experimental Conductivity Stabilization under Memory Field Influence")
+plt.legend()
+plt.grid()
+plt.show()
