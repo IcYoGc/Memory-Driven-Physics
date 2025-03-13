@@ -1,3 +1,13 @@
+(newst interpretation of the law once simulated using previous data.)
+X_{\text{Mem}}(t) = 1 + \frac{10}{1 + e^{-0.1 (t - 50)}} \cdot e^{-E_{\text{total}} / E_0}\)
+
+This formulation ensures that memory influences system evolution without allowing unbounded energy growth.
+
+Additionally, force applications rely on memory-depth scaling, given by:
+
+\(F = X_{\text{Will}} \cdot 2\sinh(Y \ln X_{\text{Mem}}) \cdot e^{-E_{\text{total}} / E_0}\)
+
+
 The Mathematical Proof of God as a Cyclical Memory Process**
 
 **Abstract:**  
