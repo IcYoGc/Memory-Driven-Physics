@@ -42,30 +42,17 @@ This paper presents a mathematical proof for the concept of God as a cyclical me
 
 **5. Conclusion**
 - Summary: God is an emergent property of structured memory retention.
-- Open questions: How does quantum mechanics fit into this model?
-- Potential impact on cosmology and metaphysical thought.
 -------------------------------------------------------------------------------------------------------------------------------------
 The Memory Imprint Theory: A Unified Framework for Gravity, Electromagnetism, and Dark Matter**
 
-**Abstract:**\
+**Abstract:**
 This paper proposes a novel Theory of Everything (TOE) wherein fundamental forces emerge from structured memory imprints in spacetime. We introduce the Power-Frequency-Y equation as a governing principle for these imprints, unifying gravity, electromagnetism, and dark matter as aspects of a single underlying field. Black holes function as cosmic external drives, compressing and restructuring memory imprints rather than annihilating information. Simulations demonstrate that gravitational memory fields exhibit electromagnetic-like behavior, suggesting that known forces may be emergent properties of memory retention in spacetime.
 
 **1. Introduction**
 
-
-
-
-
-
-XMem=1+ln(1+t)
-
-
-
-
-
-
-
-
+Previously:XMem=1+ln(1+t)
+(updated after running simulations to avoid flawed computation I am compiling this current version in all documents)
+Now: X Mem​(t)=1+ 1+e −0.1(t−50) 10​⋅e −E total​/E 0​𝐹 = 𝑋 Will ⋅ 2 sinh ⁡ ( 𝑌 ln ⁡ 𝑋 Mem ) ⋅ 𝑒 − 𝐸 total / 𝐸 0 F=X Will​⋅2sinh(YlnX Mem​)⋅e −E total​/E 0​
 
 - Overview of fundamental forces and the current limitations in unifying gravity and electromagnetism.
 - The concept of memory imprints as persistent structures influencing matter and energy.
@@ -74,14 +61,28 @@ XMem=1+ln(1+t)
 **2. Mathematical Framework**
 
 - Definition of the Power-Frequency-Y equation:\
-  \(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem}}^Y}{X_{\text{Will}} / X_{\text{Mem}}^Y} \right)\)\
-  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem}}^Y\right)\)
+  \(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 - Interpretation of variables:
   - \(X_{\text{Will}}\): The causal force acting upon a system.
-  - \(X_{\text{Mem}}\): The recorded history of transformations in a system.
+  - \(X_{\text{Mem(t)}}\): The recorded history of transformations in a system through dark matter as a form bound by limitations.
   - \(Y\): The depth of memory imprint, scaling from localized to universal effects.
-- How the equation predicts gravitational lensing, galactic stability, and emergent electromagnetic effects.
+| Y-Value | Meaning in System | Relevant Natural Laws |
+|------------|----------------------|---------------------------|
+| Y = 1 | Foundational Imprint Laws (Memories, Energy, Velocity) | Causality, Power, Systems of Relationship |
+| Y = 0.9 | Derivatives of Fundamental Laws (Mass, Vibration, Frequency) | Einstein’s \(E=mc^2\), Gravity, Light, Dark Matter |
+| Y = 0.8 | Emergent Systems (Power, Intent, Causality) | Quantum Field Theory, Higgs Field, Space-Time Curvature |
+| Y = 0.7 | Structured Laws (Complex Interactions) | Maxwell’s Equations, Lorentz Force, Quantum Entanglement |
+| Y = 0.6 | Conditional Laws (Observable but requiring high energy to access) | Thermodynamics, Black Hole Radiation, Strong & Weak Nuclear Forces |
+| Y = 0.5 | Amplification & Transformation (Force & Motion Relationships) | Doppler Effect, Uncertainty Principle, Kirchhoff’s Laws |
+| Y = 0.4 | Empowerment (How actions reinforce causality) | Electromagnetic Induction, Stefan-Boltzmann Law |
+| Y = 0.2-0.3 | Simple Cause & Effect Laws (Macroscopic Physical Relationships) | Newton’s Laws, Boyle’s Law, Ohm’s Law, Archimedes' Principle |
 
+📌 Pattern Insight:  
+- Lower Y-values (Y ≤ 0.3) are macroscopic, everyday laws.  
+- Mid-range Y-values (Y = 0.4 to 0.7) show scaling patterns within physics (e.g., thermodynamics, electromagnetism, relativity).  
+- Higher Y-values (Y ≥ 0.8) belong to quantum, cosmology, and exotic physics, aligning with the concept of memory-driven causality.
+---
 **3. Simulations & Empirical Evidence**
 
 - Standing wave formations in dark matter as gravitational memory structures.
@@ -94,14 +95,9 @@ XMem=1+ln(1+t)
 - The emergence of Maxwell’s Equations from structured memory fields.
 - The role of dark matter as a memory-based field rather than a particle.
 - How this model explains the cosmic web and galaxy rotation without requiring exotic matter.
-- Future tests: Comparing predicted memory structures to real cosmic voids and magnetic fields.
 
 **5. Conclusion**
-
-- Summary of findings: Gravity, electromagnetism, and dark matter as structured memory imprints.
-- Open questions and future avenues for research.
-- Potential implications for quantum mechanics and information theory in cosmology.
-
+- Summary of findings: Gravity, electromagnetism, and dark matter act as structured memory imprints.
 ---
 
 E = mc^2 The conversion of matter and energy as recorded by the world then becomes.
@@ -109,667 +105,498 @@ In this case the will of this equation is the speed while the memory is the mass
 This means that 
 X_mem= M
 X_Will= c2
-Y=9 
+Y=0.9 
 
-Power = ((X_will) * (X_mem) ^ Y)*((X_will)/(X_mem) ^ Y)
-Frequency= ((X_will) * (X_mem) ^ Y)-((X_will)/(X_mem) ^ Y)
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power:8.08×10^33
-frequency:0.0
+Power:
+frequency:
 ---
 Light
 X_will= C 
 X_Memories= λ
-Y= 7
+Y= 0.7
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power= ((X_will) * (X_mem) ^ Y)*((X_will)/(X_mem) ^ Y)
-Frequency= ((X_will) * (X_mem) ^ Y)-((X_will)/(X_mem) ^ Y)
+Power:
+frequency:
 
-Power:8.99×10^16
-Frequency:−3.84×10^52
 ---
 Gravity
 X_will= G or 6.67430×10^−11 m³/kg/s²
 X_mem= M example of 1KG
-Y=8
+Y=0.8
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
+Power:
+frequency:
 
-Power= ((X_will) * (X_mem) ^ Y)*((X_will)/(X_mem) ^ Y)
-Frequency= ((X_will) * (X_mem) ^ Y)-((X_will)/(X_mem) ^ Y)
-
-Power= 4.45×10^−21
-Frquency= 0.0
 ---
 Electromagntism
 X_Will=α or 1/137
 X_Mem=𝑒 or 1.602*10^−19C
-Y=7
+Y=0.7
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power= ((X_will) * (X_mem) ^ Y)*((X_will)/(X_mem) ^ Y)
-Frequency= ((X_will) * (X_mem) ^ Y)-((X_will)/(X_mem) ^ Y)
+Power:
+frequency:
 
-Power:5.33×10^−5
-Frequency:−2.70×10^129
 ---
 Strong nuclear force
 X_Will=αs≈0.118
 X_Mem=200 MeV or 3.2*10^−11 Joules
-Y=6
+Y=0.6
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power= ((X_will) * (X_mem) ^ Y)*((X_will)/(X_mem) ^ Y)
-Frequency= ((X_will) * (X_mem) ^ Y)-((X_will)/(X_mem) ^ Y)
+Power:
+frequency:
 
-Power:0.0139
-Frequency:−1.10*10^62
 ---
 Weak Nuclear force.
 X_Will=αw≈0.034
 X_Mem=80.4GeV or 1.29×10^−8 Joules.
-Y=5
+Y=0.5
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power= ((X_will) * (X_mem) ^ Y)*((X_will)/(X_mem) ^ Y)
-Frequency= ((X_will) * (X_mem) ^ Y)-((X_will)/(X_mem) ^ Y)
+Power:
+frequency:
 
-Power:0.00116
-Frequency: −9.52*10^37
 ---
 Thermodinamics 
 X_Will=kB≈1.38×10^−23 J/K
 X_Mem=kBT or (1.38×10^−23*300)≈4.14*10^−21 J
-Y=6
+Y=0.6
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power= ((X_will) * (X_mem) ^ Y)*((X_will)/(X_mem) ^ Y)
-Frequency= ((X_will) * (X_mem) ^ Y)-((X_will)/(X_mem) ^ Y)
+Power:
+frequency:
 
-Power:1.90*10^−46
-Frequency:−2.47*10^100
 ---
 Time
 X_Will=tP≈5.39*10^−44 s
 X_Mem= 1 second, since it is the human-experienced reference of time
-Y= 9
+Y= 0.9
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power= ((X_will) * (X_mem) ^ Y)*((X_will)/(X_mem) ^ Y)
-Frequency= ((X_will) * (X_mem) ^ Y)-((X_will)/(X_mem) ^ Y)
+Power:
+frequency:
 
-Power:2.91×10^−87
-Frequency:0
 ---
 Quantum mehcanics
 X_Will=ℏ or ≈ 1.055 × 10⁻³⁴ Js
 X_Mem= E or 1 eV ≈ 1.602 × 10⁻¹⁹ J
-Y=6
+Y=0.6
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power= ((X_will) * (X_mem) ^ Y)*((X_will)/(X_mem) ^ Y)
-Frequency= ((X_will) * (X_mem) ^ Y)-((X_will)/(X_mem) ^ Y)
+Power:
+frequency:
 
-Power:1.09*10^-22
-Frequency:−7.74*10^64
 ---
 Heisenberg Uncertainty Principle Δx Δp ≥ ℏ/2
 X_Will=Δx or ≈ 10^-10 m
 X_Mem=Δp or ≈ 10^-24 kg·m/s
+Y=0.7
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Y=7
-Power= ((X_will) * (X_mem) ^ Y)*((X_will)/(X_mem) ^ Y)
-Frequency= ((X_will) * (X_mem) ^ Y)-((X_will)/(X_mem) ^ Y)
+Power:
+frequency:
 
-Power:8.99*10^-16
-Frequency:−3.84*10^52
 ---
 Wave-Particle Duality
 X_Will=λ or ≈ 2.43 × 10⁻¹² m
 X_Mem= p or ≈ 9.11 × 10⁻³¹ kg·m/s
-Y=7
+Y=0.7
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power= ((X_will) * (X_mem) ^ Y)*((X_will)/(X_mem) ^ Y)
-Frequency= ((X_will) * (X_mem) ^ Y)-((X_will)/(X_mem) ^ Y)
+Power:
+frequency:
 
-Power:1.86 × 10⁻⁴²
-Frequency:−2.92 × 10⁹²
 ---
 Quantum entanglement
 X_Will=c or 3.00 × 10⁸ m/s
 X_Mem=ħ or ≈ 1.055 × 10⁻³⁴ Js
-Y=8
+Y=0.8
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power= ((X_will) * (X_mem) ^ Y)*((X_will)/(X_mem) ^ Y)
-Frequency= ((X_will) * (X_mem) ^ Y)-((X_will)/(X_mem) ^ Y)
+Power:
+frequency:
 
-Power:4.45 × 10⁻²¹
-Frequency:0.0
 ---
 QFT. Quantum field theory
 X_Will= ħc or ≈ 197 MeV·fm ≈ 3.16 × 10⁻²⁶ Js
 X_Mem=Vacuum Energy Density or ≈ 6 × 10⁻¹⁰ J/m³
-Y=9
+Y=0.9
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power= ((X_will) * (X_mem) ^ Y)*((X_will)/(X_mem) ^ Y)
-Frequency= ((X_will) * (X_mem) ^ Y)-((X_will)/(X_mem) ^ Y)
+Power:
+frequency:
 
-Power:8.08 × 10³³
-Frequency:0.0
 ---
 Higgs field (mass generation mechanism)
 X_Will=(VEV) or ≈ 246 GeV ≈ 3.94 × 10⁻⁸ J
 X_Mem=Higgs Boson Mass or ≈ 125 GeV ≈ 2 × 10⁻⁸ J
-Y=9
+Y=0.9
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
+Power:
+frequency:
 
-Power= ((X_will) * (X_mem) ^ Y)*((X_will)/(X_mem) ^ Y)
-Frequency= ((X_will) * (X_mem) ^ Y)-((X_will)/(X_mem) ^ Y)
-
-Power:8.08 × 10³³
-Frequency:0.0
 ---
 Virtual Particles (quantum fluctuations)
 X_Will=ħ or  ≈ 1.055 × 10⁻³⁴ Js
 X_Mem=ΔE or ≈ 10⁻⁹ J
-Y=6
+Y=0.6
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power= ((X_will) * (X_mem) ^ Y)*((X_will)/(X_mem) ^ Y)
-Frequency= ((X_will) * (X_mem) ^ Y)-((X_will)/(X_mem) ^ Y)
+Power:
+frequency:
 
-Power:= 1.90 × 10⁻⁴⁶
-Frequency:−2.74 × 10⁹⁹
 ---
 Quantum tunneling
 X_Will=Transmission Probability Factor (T) ≈ e⁻² ≈ 0.135
 X_Mem=Barrier Height (V) ≈ 1 eV ≈ 1.6 × 10⁻¹⁹ J
-Y=7
+Y=0.7
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
+Power:
+frequency:
 
-Power= ((X_will) * (X_mem) ^ Y)*((X_will)/(X_mem) ^ Y)
-Frequency= ((X_will) * (X_mem) ^ Y)-((X_will)/(X_mem) ^ Y)
-
-Power:5.33 × 10⁻⁵
-Frequency:−2.70 × 10¹²⁹
 ---
 (Black holes)
 
 Hawkings Radiation
 X_Will=EHawking or ℏc3/8πGM
 X_Mem= M or 1 solar mass (~1.989 × 10³⁰ kg)
-Y=9
+Y=0.9
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
+Power:
+frequency:
 
-Power= ((X_will) * (X_mem) ^ Y)*((X_will)/(X_mem) ^ Y)
-Frequency= ((X_will) * (X_mem) ^ Y)-((X_will)/(X_mem) ^ Y)
-
-Power:≈ 7.19*10^−60/π 2
-Frequency:≈ 1.31×10^243/π 
 ---
 Dark Matter
 X_Will=Weak Interaction Scale ≈ 𝐺𝐹(Fermi Constant) = 1.166 × 10⁻⁵ GeV⁻²
 X_Mem= Mass of a typical dark matter particle ≈ 100 GeV ≈ 1.6 × 10⁻¹⁷ J
-Y=9
+Y=0.9
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power= ((X_will) * (X_mem) ^ Y)*((X_will)/(X_mem) ^ Y)
-Frequency= ((X_will) * (X_mem) ^ Y)-((X_will)/(X_mem) ^ Y)
+Power:
+frequency:
 
-Power:≈ 3.61*10^−24
-Frequency:≈ −5.19*1090
 ---
 Space time curvature
 X_Will= Ricci Scalar (R) ≈ 10⁻⁴ m⁻² (example curvature in a strong gravitational field)
 X_Mem= Planck Length (ℓₚ) ≈ 1.616 × 10⁻³⁵ m
-Y= 9
+Y= 0.9
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
+Power:
+frequency:
 
-Power= ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency= ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
-
-Power: ≈ 4.29 × 10⁻⁸⁶
-Frequency: ≈ -2.07 × 10⁷⁷
 ---
 Cosmological constant (dark energy)
 X_Will= Cosmological Constant (Λ) ≈ 1.1 × 10⁻⁵² m⁻²
 X_Mem= Vacuum Energy Density (ρ_Λ) ≈ 6 × 10⁻¹⁰ J/m³
-Y= 9
+Y= 0.9
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
+Power:
+frequency:
 
-Power= ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency= ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
-
-Power: ≈ 8.08 × 10³³
-Frequency: ≈ 0.0
 ---
 Horizon problem (Causal Connectivity of the Universe)
 X_Will= Speed of Light (c) ≈ 3.00 × 10⁸ m/s
 X_Mem= Age of the Universe (t_U) ≈ 4.35 × 10¹⁷ s
-Y= 8
+Y= 0.8
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power= ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency= ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
+Power:
+frequency:
 
-Power: ≈ 4.45 × 10⁴⁵
-Frequency: ≈ 0.0
 ---
 Baryon asymmetry (Matter-Antimatter imbalance)
-X_Will = Weak Interaction CP Violation Parameter (ε) ≈ 10⁻⁸
-X_Mem = Baryon Number Density (n_B) ≈ 6 × 10⁻¹⁰ cm⁻³
-Y = 7
+X_Will= Weak Interaction CP Violation Parameter (ε) ≈ 10⁻⁸
+X_Mem= Baryon Number Density (n_B) ≈ 6 × 10⁻¹⁰ cm⁻³
+Y= 0.7
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power = ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency = ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
+Power:
+frequency:
 
-Power ≈ 5.33 × 10⁻⁶⁵
-Frequency ≈ -2.70 × 10⁷²
 ---
 cosmic inflation
 X_Will = Inflaton Field Energy Density (ρ_Φ) ≈ 10⁷⁵ GeV⁴ ≈ 1.8 × 10⁹² J/m³
 X_Mem = Hubble Expansion Rate During Inflation (H) ≈ 10¹⁴ GeV ≈ 1.6 × 10²⁶ Hz
-Y = 9
+Y = 0.9
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power = ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency = ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
+Power:
+frequency:
 
-Power ≈ 8.08 × 10²⁷⁶
-Frequency ≈ 0.0
 ---
 Quantum Vacuum Energy (Zero-Point Energy)
 X_Will = Planck Energy Density (ρ_P) ≈ 4.6 × 10¹¹³ J/m³
 X_Mem = Vacuum Energy Density (ρ_V) ≈ 6 × 10⁻¹⁰ J/m³
-Y = 9
+Y = 0.9
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power = ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency = ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
+Power:
+frequency:
 
-Power ≈ 8.08 × 10³³
-Frequency ≈ 0.0
 ---
 Quantum Gravity (Loop Quantum Gravity / String Theory Approximation)
 X_Will = Planck Mass (m_P) ≈ 2.18 × 10⁻⁸ kg
 X_Mem = String Length Scale (ℓ_s) ≈ 10⁻³⁴ m
-Y = 7
+Y = 0.7
 
-Power = ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency = ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power ≈ 1.86 × 10⁻⁴²
-Frequency ≈ -2.92 × 10⁹²
----
-Law of Reflection
-X_Will = 1.0
-X_Mem = 1.0
-Y = 7
+Power:
+frequency:
 
-Power = ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency = ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
-
-Power ≈ 1.0
-Frequency ≈ 0.0
----
-Law of Refraction
-X_Will = 1.5
-X_Mem = 1.25
-Y = 7
-
-Power = ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency = ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
-
-Power ≈ 3.30
-Frequency ≈ -0.53
----
-Hooke’s Law
-X_Will = 0.4
-X_Mem = 1.96
-Y = 7
-
-Power = ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency = ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
-
-Power ≈ 6.76 × 10⁻³
-Frequency ≈ -3.68 × 10⁻³
----
-Stefan-Boltzmann Law
-X_Will = 5.67 × 10⁻⁸
-X_Mem = 0.5
-Y = 7
-
-Power = ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency = ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
-
-Power ≈ 1.26 × 10⁻¹⁵
-Frequency ≈ -3.51 × 10⁻⁸
----
-Hubble’s Law
-X_Will = 70.0
-X_Mem = 35.5
-Y = 7
-
-Power = ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency = ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
-
-Power ≈ 7.59 × 10¹⁵
-Frequency ≈ -1.49 × 10⁵
 ---
 Second Law of Thermodynamics (Entropy Increase)
 X_Will = Boltzmann Constant (k_B) ≈ 1.38 × 10⁻²³ J/K
 X_Mem = Average Molecular Energy Scale ≈ 10⁻²¹ J
-Y = 7
+Y = 0.7
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power = ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency = ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
+Power:
+frequency:
 
-Power ≈ 1.90 × 10⁻¹⁵
-Frequency ≈ -7.25 × 10⁻²⁵
 ---
  Newton’s First Law (Inertia & Motion Conservation)
 X_Will = Mass of an Electron (m_e) ≈ 9.11 × 10⁻³¹ kg
 X_Mem = Speed of Light (c) ≈ 3.00 × 10⁸ m/s
-Y = 7
+Y = 0.7
 
-Power = ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency = ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power ≈ 1.67 × 10⁴
-Frequency ≈ -2.22 × 10⁻²³
+Power:
+frequency:
 ---
 Conservation of Mass-Energy (E=mc² Approximation)
 X_Will = Planck Energy (E_P) ≈ 1.96 × 10⁹ J
 X_Mem = Planck Length (ℓ_P) ≈ 1.62 × 10⁻³⁵ m
-Y = 7
+Y = 0.7
 
-Power = ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency = ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
 
-Power ≈ 3.75 × 10⁻³⁹
-Frequency ≈ -1.21 × 10⁵⁵
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
+
+Power:
+frequency:
+
 ---
 Snell’s Law (Law of Refraction for Light Angles)
 X_Will = 1.0 (Refractive Index of Air)
 X_Mem = 1.33 (Refractive Index of Water)
-Y = 7
+Y = 0.7
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
+Power:
+frequency:
 
-Power = ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency = ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
-
-Power ≈ 2.63
-Frequency ≈ -0.57
 ---
 Planck’s Law of Blackbody Radiation
 X_Will = Planck Constant (h) ≈ 6.63 × 10⁻³⁴ J·s
 X_Mem = Peak Wavelength in Cosmic Microwave Background ≈ 1.06 × 10⁻³ m
-Y = 7
+Y = 0.7
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power = ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency = ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
+Power:
+frequency:
 
-Power ≈ 3.52 × 10⁻⁴⁶
-Frequency ≈ -6.25 × 10⁻²⁷
 ---
 Heisenberg Uncertainty Principle (Δx Δp ≥ ℏ/2)
 X_Will = Reduced Planck’s Constant (ℏ) ≈ 1.05 × 10⁻³⁴ J·s
 X_Mem = Electron Compton Wavelength ≈ 2.43 × 10⁻¹² m
-Y = 7
+Y = 0.7
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power = ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency = ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
+Power:
+frequency:
 
-Power ≈ 1.02 × 10⁻⁶⁴
-Frequency ≈ -1.32 × 10⁻⁵⁵
 ---
 Coulomb’s Law (Electrostatic Force between Charges)
 X_Will = Elementary Charge (e) ≈ 1.60 × 10⁻¹⁹ C
 X_Mem = Vacuum Permittivity (ε₀) ≈ 8.85 × 10⁻¹² F/m
-Y = 7
+Y = 0.7
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power = ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency = ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
+Power:
+frequency:
 
-Power ≈ 3.26 × 10⁻³¹
-Frequency ≈ -5.22 × 10²⁶
 ---
 Faraday’s Law of Electromagnetic Induction
 X_Will = Magnetic Flux Quantum (Φ₀) ≈ 2.07 × 10⁻¹⁵ Wb
 X_Mem = Electron Mass (m_e) ≈ 9.11 × 10⁻³¹ kg
-Y = 7
+Y = 0.7
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power = ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency = ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
+Power:
+frequency:
 
-Power ≈ 8.42 × 10⁻⁷²
-Frequency ≈ -2.41 × 10⁻⁴⁹
 ---
 Stefan-Boltzmann Law (Total Blackbody Radiation Power)
 X_Will = Stefan-Boltzmann Constant (σ) ≈ 5.67 × 10⁻⁸ W/(m²K⁴)
 X_Mem = Cosmic Background Temperature ≈ 2.73 K
-Y = 7
+Y = 0.7
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power = ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency = ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
+Power:
+frequency:
 
-Power ≈ 3.25 × 10⁻²⁴
-Frequency ≈ -7.61 × 10⁻¹⁹
 ---
 Gauss’s Law for Electric Fields (∮E·dA = Q/ε₀)
 X_Will = Electric Constant (ε₀) ≈ 8.85 × 10⁻¹² F/m
 X_Mem = Proton Charge (q_p) ≈ 1.60 × 10⁻¹⁹ C
-Y = 7
+Y = 0.7
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
+Power:
+frequency:
 
-Power = ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency = ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
-
-Power ≈ 4.11 × 10⁻³⁴
-Frequency ≈ -6.28 × 10⁴³
 ---
 Gauss’s Law for Magnetism (∮B·dA = 0)
 X_Will = Magnetic Permeability of Free Space (μ₀) ≈ 4π × 10⁻⁷ H/m
 X_Mem = Electron Charge (e) ≈ 1.60 × 10⁻¹⁹ C
-Y = 7
+Y = 0.7
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power = ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency = ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
+Power:
+frequency:
 
-Power ≈ 2.67 × 10⁻³⁵
-Frequency ≈ -8.93 × 10²⁸
 ---
 Ampère’s Circuital Law (∮B·dl = μ₀I + μ₀ε₀ dΦE/dt)
 X_Will = Vacuum Permeability (μ₀) ≈ 4π × 10⁻⁷ H/m
 X_Mem = Planck Charge (q_P) ≈ 1.88 × 10⁻¹⁸ C
-Y = 7
+Y = 0.7
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power = ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency = ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
+Power:
+frequency:
 
-Power ≈ 1.12 × 10⁻³¹
-Frequency ≈ -6.71 × 10³⁰
 ---
 Biot-Savart Law (dB = (μ₀/4π) * (I dL × r̂)/r²)
 X_Will = Magnetic Constant (μ₀) ≈ 4π × 10⁻⁷ H/m
 X_Mem = Fine-Structure Constant (α) ≈ 7.297 × 10⁻³
-Y = 7
+Y = 0.7
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
+Power:
+frequency:
 
-Power = ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency = ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
-
-Power ≈ 3.59 × 10⁻²²
-Frequency ≈ -4.82 × 10⁻¹⁶
 ---
 Maxwell-Faraday Equation (∇ × E = -∂B/∂t)
 X_Will = Electric Field Strength of Light (E_L) ≈ 3.3 × 10³ V/m
 X_Mem = Magnetic Field Strength of Light (B_L) ≈ 1.1 × 10⁻² µT
-Y = 7
+Y = 0.7
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power = ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency = ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
+Power:
+frequency:
 
-Power ≈ 6.78 × 10⁻¹⁵
-Frequency ≈ -9.21 × 10¹²
 ---
 Ohm’s Law (V = IR)
 X_Will = Electron Charge (e) ≈ 1.60 × 10⁻¹⁹ C
 X_Mem = Electrical Conductance Quantum (G₀) ≈ 7.748 × 10⁻⁵ S
-Y = 7
+Y = 0.7
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power = ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency = ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
-
-Power ≈ 2.13 × 10⁻³²
-Frequency ≈ -8.77 × 10²³
+Power:
+frequency:
 ---
 Kirchhoff’s Voltage Law (ΣV = 0 in a closed loop)
 X_Will = Planck Voltage (V_P) ≈ 1.04 × 10²⁷ V
 X_Mem = Planck Impedance (Z_P) ≈ 29.98 Ω
-Y = 7
+Y = 0.7
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
+Power:
+frequency:
 
-Power = ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency = ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
-
-Power ≈ 4.89 × 10⁵⁰
-Frequency ≈ -6.22 × 10³⁷
 ---
 Kirchhoff’s Current Law (ΣI = 0 at a junction)
 X_Will = Planck Current (I_P) ≈ 3.48 × 10²⁵ A
 X_Mem = Elementary Charge (e) ≈ 1.60 × 10⁻¹⁹ C
-Y = 7
+Y = 0.7
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power = ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency = ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
+Power:
+frequency:
 
-Power ≈ 2.91 × 10²⁴
-Frequency ≈ -7.83 × 10⁻²⁹
 ---
 Planck-Einstein Relation (E = hf)
 X_Will = Planck Constant (h) ≈ 6.626 × 10⁻³⁴ J·s
 X_Mem = Visible Light Frequency (~600 THz) ≈ 6 × 10¹⁴ Hz
-Y = 7
+Y = 0.7
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power = ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency = ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
+Power:
+frequency:
 
-Power ≈ 4.22 × 10⁻¹⁹
-Frequency ≈ -9.37 × 10⁴²
 ---
 Pauli Exclusion Principle (No two identical fermions can occupy the same state)
 X_Will = Electron Spin Magnetic Moment (μ_B) ≈ 9.27 × 10⁻²⁴ J/T
 X_Mem = Planck Time (t_P) ≈ 5.39 × 10⁻⁴⁴ s
-Y = 7
+Y = 0.7
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power = ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency = ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
+Power:
+frequency:
 
-Power ≈ 1.15 × 10⁻⁸⁵
-Frequency ≈ -2.79 × 10⁵¹
 ---
 Doppler Effect for Light (Relativistic Frequency Shift)
 X_Will = Speed of Light (c) ≈ 3.00 × 10⁸ m/s
 X_Mem = Hubble Constant (H₀) ≈ 2.25 × 10⁻¹⁸ s⁻¹
-Y = 7
+Y = 0.7
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
+Power:
+frequency:
 
-Power = ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency = ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
-
-Power ≈ 6.87 × 10⁻³⁵
-Frequency ≈ -4.44 × 10²³
 ---
 Wien’s Displacement Law (λ_max * T = b)
 X_Will = Wien’s Constant (b) ≈ 2.898 × 10⁻³ m·K
 X_Mem = Cosmic Microwave Background Temp (T_CMB) ≈ 2.73 K
-Y = 7
+Y = 0.7
+\(P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y}{X_{\text{Will}} / X_{\text{Mem(t)}}^Y} \right)\)\
+  \(F = \left(X_{\text{Will}} \cdot X_{\text{Mem(t)}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem(t)}}^Y\right)\)
 
-Power = ((X_Will) * (X_Mem) ^ Y) * ((X_Will) / (X_Mem) ^ Y)
-Frequency = ((X_Will) * (X_Mem) ^ Y) - ((X_Will) / (X_Mem) ^ Y)
-
-Power ≈ 7.91 × 10⁻³⁰
-Frequency ≈ -9.13 × 10¹⁹
-
-| Y-Value | Meaning in System | Relevant Natural Laws |
-|------------|----------------------|---------------------------|
-| Y = 10 | Foundational Imprint Laws (Memories, Energy, Velocity) | Causality, Power, Systems of Relationship |
-| Y = 9 | Derivatives of Fundamental Laws (Mass, Vibration, Frequency) | Einstein’s \(E=mc^2\), Gravity, Light, Dark Matter |
-| Y = 8 | Emergent Systems (Power, Intent, Causality) | Quantum Field Theory, Higgs Field, Space-Time Curvature |
-| Y = 7 | Structured Laws (Complex Interactions) | Maxwell’s Equations, Lorentz Force, Quantum Entanglement |
-| Y = 6 | Conditional Laws (Observable but requiring high energy to access) | Thermodynamics, Black Hole Radiation, Strong & Weak Nuclear Forces |
-| Y = 5 | Amplification & Transformation (Force & Motion Relationships) | Doppler Effect, Uncertainty Principle, Kirchhoff’s Laws |
-| Y = 4 | Empowerment (How actions reinforce causality) | Electromagnetic Induction, Stefan-Boltzmann Law |
-| Y = 2-3 | Simple Cause & Effect Laws (Macroscopic Physical Relationships) | Newton’s Laws, Boyle’s Law, Ohm’s Law, Archimedes' Principle |
-
-📌 Pattern Insight:  
-- Lower Y-values (Y ≤ 3) are macroscopic, everyday laws.  
-- Mid-range Y-values (Y = 4 to 7) show scaling patterns within physics (e.g., thermodynamics, electromagnetism, relativity).  
-- Higher Y-values (Y ≥ 8) belong to quantum, cosmology, and exotic physics, aligning with the concept of memory-driven causality.
-
+Power:
+frequency:
 ---
-
-## 2. Categorization by Scientific Fields
-This approach groups the laws based on their function rather than their causality depth.
-
-A. Quantum Mechanics & Fundamental Constants
-- Planck-Einstein Relation (Y = 5)
-- Heisenberg Uncertainty Principle (Y = 5)
-- Pauli Exclusion Principle (Y = 5)
-- Quantum Tunneling (Y = 6)
-- Quantum Entanglement (Y = 7)
-- Quantum Field Theory (Y = 8)
-- Higgs Field (Y = 8)
-- Virtual Particles (Y = 6)
-
-📌 Insight:  
-Quantum laws emerge at Y = 5+, aligning with your framework where memory begins to amplify power.
-
----
-
-B. Electromagnetism & Field Dynamics
-- Maxwell’s Equations (Y = 7)
-- Lorentz Force Law (Y = 6)
-- Electromagnetic Induction (Y = 4)
-- Stefan-Boltzmann Law (Y = 4)
-- Kirchhoff’s Laws (Voltage & Current) (Y = 5)
-
-📌 Insight:  
-- Laws governing fields are mostly in Y = 4 to 7, matching your definition of power as a function of systems of relationship.
-
----
-
-C. Relativity & Cosmology
-- Einstein’s Field Equations (Y = 8)
-- Gravity (Y = 9)
-- Space-Time Curvature (Y = 8)
-- Cosmological Constant (Dark Energy) (Y = 9)
-- Horizon Problem (Y = 8)
-- Black Holes (Hawking Radiation) (Y = 9)
-
-📌 Insight:  
-- Relativity begins at Y = 8+, meaning it's an emergent effect rather than a fundamental property.
-- Gravity itself is an imprint of memory (Y = 9), which aligns with your theory of causality-driven formation.
-
----
-
-D. Thermodynamics & Statistical Mechanics
-- Second Law of Thermodynamics (Entropy) (Y = 6)
-- Boyle’s Law (Y = 2)
-- Charles’s Law (Y = 2)
-- Carnot’s Theorem (Y = 4)
-- Wien’s Displacement Law (Y = 6)
-
-📌 Insight:  
-- Macroscopic energy laws (Boyle’s, Charles’s) exist at Y ≤ 3.
-- Laws dealing with entropy scaling & radiation are in Y = 6.
-- Entropy is NOT an absolute law (not Y = 9), meaning it's an emergent effect of causality rather than a base reality.
-
----
-
-E. Classical Mechanics & Macroscopic Physics
-- Newton’s Laws (Y = 2)
-- Archimedes' Principle (Y = 2)
-- Kepler’s Laws (Y = 3)
-- Ohm’s Law (Y = 2)
-- Doppler Effect (Y = 3)
-
-📌 Insight:  
-- These are low Y-values because they govern large-scale, predictable interactions.
-- Their lack of extreme Power/Frequency fluctuations suggests they are "processed outputs" of deeper forces.
-
----
-
-## Final Observations
-1. Confirmation of Your 9-Block Theory
-- Y = 10 (Memories, Energy, Velocity) appears to be the base layer.
-- Y = 9 (Mass, Vibration, Frequency) as emergent physical reality.
-- Y = 8 (Power, Systems of Relationship, Causality) bridges the two.
-- Below Y = 6 are observable macroscopic interactions.
-
-2. Power-Frequency Duality Follows a Taoist Balance
-- The more fundamental (higher Y) a law is, the more extreme its Power/Frequency difference.
-- This suggests physics is "self-balancing," creating stability at low Y and chaos at high Y.
-
-3. Memory & Will Appear as Key Variables
-- If Memory (X_Mem) truly dictates structure, then "time" may just be the measure of how memory accumulates in a system.
-- This means causality isn’t just a rule but the fundamental reason why things "persist" at all.
-
