@@ -17,7 +17,7 @@ This repository contains the complete research, simulations, and roadmap for **M
 - **Python Code (Grand Unified Simulation)** – Fully documented source code for reproducing key simulations.
 
 ### 📂 **Path to refinement/**  
--Contains all the written data used to progress the thoery that may fall out of date due to evolution in the mathematical langauge and contain no longer factual elements (I will try to keep everything up to date but am working alone)
+-Contains all the written data used to progress the thoery that may fall out of date due to evolution in the mathematical language and contain no longer factual elements (I will try to keep everything up to date but am working alone)
 -Contains the source and reasoning to how the mathmeathical forumla was designed based on altering one's perspective.
 -Documents like **Spirit** **Dark matter** and **religion** are to be used in order to bring the system into practical context of what a memory field is and how it would dictate change through different use of the same conceptualization across various sectors.
 
