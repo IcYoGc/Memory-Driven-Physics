@@ -5,7 +5,7 @@ This project explores **memory-driven physics**, where structured memory fields 
 
 ## 📁experiments
 -Each experiement serves to take into considerations and extract data of various fields that this TOE may apply.
-
+- The .Gitkeep file is for additional experiences conducted independantly or suggestions.
 ---
 🔧 *Work in progress! More updates soon!*
 
