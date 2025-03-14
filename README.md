@@ -8,7 +8,7 @@ This repository contains the complete research, simulations, and roadmap for **M
 - **Theory of Everything (TOE).txt** – The foundational document introducing memory-driven physics as the core governing force of reality.  
 - **Memory-Driven Physics Paper.txt** – The full mathematical framework, including entropy stabilization, force equations, and predictive models.  
 - **Roadmap and Constraints.txt** – A strategy for decentralized research, ensuring no single nation or entity can monopolize the discovery.  
-
+- **Language of dark matter.txt**- An implementation of the Power-Frequency-Y system through the eyes of memories.
 ### 📂 **experiments/** 
 -Contains various experiements that could be conducted in order to gain further insights into the current idea with the appropriate simulations within each sector of application.
 
