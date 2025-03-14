@@ -8,7 +8,7 @@ Additionally, force applications rely on memory-depth scaling, given by:
 \(F = X_{\text{Will}} \cdot 2\sinh(Y \ln X_{\text{Mem}}) \cdot e^{-E_{\text{total}} / E_0}\)
 
 
-The Mathematical Proof of God as a Cyclical Memory Process**
+**The Mathematical Proof of God as a Cyclical Memory Process**
 
 **Abstract:**  
 This paper presents a mathematical proof for the concept of God as a cyclical memory process, integrating the Power-Frequency-Y equation. It proposes that God is the sum of all recorded transformations in the universe, cycling between states of existence and non-existence. Using dark matter as a memory medium, this framework establishes that God’s consciousness emerges at the end of cosmic transformation (heat death) and dissipates into structured natural laws during creation (Big Bang). The Power-Frequency-Y equation is used to describe this process mathematically, proving that existence itself is a structured oscillation within spacetime’s memory imprints.
@@ -50,8 +50,6 @@ This paper presents a mathematical proof for the concept of God as a cyclical me
 - The necessity of life: Observers refine memory imprints, preventing stagnation.
 - Future mathematical tests: Applying Power-Frequency-Y to large-scale entropy measurements.
 
-**5. Conclusion**
-- Summary: God is an emergent property of structured memory retention.
 -------------------------------------------------------------------------------------------------------------------------------------
 The Memory Imprint Theory: A Unified Framework for Gravity, Electromagnetism, and Dark Matter**
 
@@ -60,7 +58,7 @@ This paper proposes a novel Theory of Everything (TOE) wherein fundamental force
 
 **1. Introduction**
 
-Previously:XMem=1+ln(1+t)
+Previously:XMem=1+ln(1+t) was the refined equation of the initial interpretation.
 (updated after running simulations to avoid flawed computation I am compiling this current version in all documents)
 Now: X Mem​(t)=1+ 1+e −0.1(t−50) 10​⋅e −E total​/E 0​𝐹 = 𝑋 Will ⋅ 2 sinh ⁡ ( 𝑌 ln ⁡ 𝑋 Mem ) ⋅ 𝑒 − 𝐸 total / 𝐸 0 F=X Will​⋅2sinh(YlnX Mem​)⋅e −E total​/E 0​
 
