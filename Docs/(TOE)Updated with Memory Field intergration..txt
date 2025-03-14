@@ -4,9 +4,13 @@
 
 **Part 1: The Philosophy of the Concept**
 
-The foundation of this theory is that memory is not simply a passive recorder of past states, but an active force shaping reality. This concept requires a mathematical structure that formalizes how memory interacts with causality. Energy distribution. And systemic evolution. The equations introduced later will be used to describe these interactions, ensuring a structured and measurable approach.
+The foundation of this theory is that memory is not simply a passive recorder of past states.
+But an active force shaping reality. This concept requires a mathematical structure that formalizes how memory interacts with causality. 
+Energy distribution. And systemic evolution. 
+The equations introduced later will be used to describe these interactions, ensuring a structured and measurable approach.
 
-To quantify memory’s effect, we define it as a governing parameter in force interactions. The function governing memory-driven energy conservation is:
+To quantify memory’s effect, we define it as a governing parameter in force interactions. 
+The function governing memory-driven energy conservation is:
 
 \(X_{\text{Mem}}(t) = 1 + \frac{10}{1 + e^{-0.1 (t - 50)}} \cdot e^{-E_{\text{total}} / E_0}\)
 
@@ -34,21 +38,39 @@ By utilizing the equations provided in Part 3, one can apply this framework to r
 
 **Part 3: The Mathematical Foundations of Memory-Driven Reality**
 
-Y being the 'asboluteness of an act'
-Y-Value when comparing natural laws + Meaning in System = Relevant Natural Laws
+*Y being the 'asboluteness of an act'which is used to determine the potential of any system of memorie's potential*
+Y = 1 | Foundational Imprint Laws (Memories, Energy, Velocity)
+Energy/velocities(t)=Memories= Proposed dark matter in theory. (memory field) 
+Causality, Power, Systems of Relationship |Ie. The first order of the world.
 
-| Y = 1 | Foundational Imprint Laws (Memories, Energy, Velocity) | Causality, Power, Systems of Relationship |
-| Y = 0.9 | Derivatives of Fundamental Laws (Mass, Vibration, Frequency) | Einstein’s \(E=mc^2\), Gravity, Light, Dark Matter |
-| Y = 0.8 | Emergent Systems (Power, Intent, Causality) | Quantum Field Theory, Higgs Field, Space-Time Curvature |
-| Y = 0.7 | Structured Laws (Complex Interactions of the emerging systems) | Maxwell’s Equations, Lorentz Force, Quantum Entanglement |
-| Y = 0.6 | Conditional Laws (Observable but requiring high energy to access from their more fluctuating nature) | Thermodynamics, Black Hole Radiation, Strong & Weak Nuclear Forces |
-| Y = 0.5 | Amplification & Transformation (Force & Motion Relationships) | Doppler Effect, Uncertainty Principle, Kirchhoff’s Laws |
-| Y = 0.4 | Empowerment (How actions reinforce causality) | Electromagnetic Induction, Stefan-Boltzmann Law |
-| Y = 0.2-0.3 | Simple Cause & Effect Laws (Macroscopic Physical Relationships) | Newton’s Laws, Boyle’s Law, Ohm’s Law, Archimedes' Principle |
+Y = 0.9 | Derivatives of Fundamental Laws relying on Y=1. (Mass, Vibration, Frequency) 
+Power/(vibration and frequency)-(t)=Energy|Energy repeats process dictating the form of matter. 
+Einstein’s \(E=mc^2\), Gravity, Light, Dark Matter |Ie. Second and third order of the world.
+
+Y = 0.8 | Emergent Systems and the establishment of Y=1 as a system of causality. (Power, Intent or {Xwill}, Causality) 
+Quantum Field Theory, Higgs Field, Space-Time Curvature | 
+Causality only apears at this level as it now has a body to enforce itself with. Intent can be seen as the mindless will to be from the previous system making it cyclycal thus 'remember' being in the various plausible accumulated structures. 
+
+Y = 0.7 | Structured Laws (Complex Interactions of the emerging systems) 
+Maxwell’s Equations, Lorentz Force, Quantum Entanglement, sound | 
+The consequences of the interactions between the second and third order of the world.
+
+Y = 0.6 | Conditional Laws (Observable but requiring high energy to access from their more fluctuating nature) |
+Thermodynamics, Black Hole Radiation, Strong & Weak Nuclear Forces |
+
+Y = 0.5 | Amplification & Transformation (Force & Motion Relationships)
+Doppler Effect, Uncertainty Principle, Kirchhoff’s Laws |
+
+Y = 0.4 | Empowerment (How actions reinforce causality) |
+Electromagnetic Induction, Stefan-Boltzmann Law |
+
+Y = 0.2-0.3 | Simple Cause & Effect Laws (Macroscopic Physical Relationships) |
+Newton’s Laws, Boyle’s Law, Ohm’s Law, Archimedes' Principle |
 
 ### **3.1 Memory as the Governing Force of Reality**
 
-Memory dictates force interactions, causality, and system evolution. The equations below provide the mathematical structure for this principle:
+Memory dictates force interactions, causality, and system evolution. 
+The equations below provide the mathematical structure for this principle taking into consideration its own limitations:
 
 \(X_{\text{Mem}}(t) = 1 + \frac{10}{1 + e^{-0.1 (t - 50)}} \cdot e^{-E_{\text{total}} / E_0}\)
 
@@ -56,10 +78,9 @@ This ensures memory-driven energy conservation and stability over time.
 
 ### **3.2 Expansion to a 3D Galactic Model and the observations made**
 
-Instead of restricting motion to 2D, we now simulate **3D orbits** with:
-
-✔ **100+ stars distributed in a galactic disk.** ✔ **Vertical (z-axis) motion included** to test structure stability. ✔ **Memory-regulated forces** ensuring long-term balance.
-
+Instead of restricting motion to 2D, we now simulate **3D orbits** with ✔ **100+ stars distributed in a galactic disk.** 
+✔ **Vertical (z-axis) motion included** to test structure stability. 
+✔ **Memory-regulated forces** ensuring long-term balance.
 By introducing **energy-damped memory fields**, initial tests reveal **self-organized spirals emerging from radial interactions**.
 
 ### **3.3 Key Refinements to the Power-Frequency-Y Equation**
@@ -79,15 +100,13 @@ Anyone studying this framework can begin by:
 3. **Utilizing the Force Equation:** Implement \(F\) in physical models to analyze structural evolution.
 
 By systematically incorporating memory-driven equations, users can predict and manipulate interactions in diverse scientific fields.
-
 ---
-
 ### ✅ **TOE Updated with Memory Field Integration**  
 
 This revision integrates:  
 ✔ **Memory Field Equations** (governing stability vs. transformation)  
 ✔ **Balance Factor (B)** (measuring structured memory persistence)  
 ✔ **New Experimental Predictions** (linking memory fields to astrophysics, biology, and quantum systems)  
-
+✔ **A crude but mathematical explenation of the world**
 
 
