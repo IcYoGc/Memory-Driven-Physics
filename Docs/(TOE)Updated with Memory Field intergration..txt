@@ -4,7 +4,7 @@
 
 **Part 1: The Philosophy of the Concept**
 
-The foundation of this theory is that memory is not simply a passive recorder of past states, but an active force shaping reality. This concept requires a mathematical structure that formalizes how memory interacts with causality, energy distribution, and system evolution. The equations introduced later will be used to describe these interactions, ensuring a structured and measurable approach.
+The foundation of this theory is that memory is not simply a passive recorder of past states, but an active force shaping reality. This concept requires a mathematical structure that formalizes how memory interacts with causality. Energy distribution. And systemic evolution. The equations introduced later will be used to describe these interactions, ensuring a structured and measurable approach.
 
 To quantify memory’s effect, we define it as a governing parameter in force interactions. The function governing memory-driven energy conservation is:
 
@@ -34,6 +34,18 @@ By utilizing the equations provided in Part 3, one can apply this framework to r
 
 **Part 3: The Mathematical Foundations of Memory-Driven Reality**
 
+Y being the 'asboluteness of an act'
+Y-Value when comparing natural laws + Meaning in System = Relevant Natural Laws
+
+| Y = 1 | Foundational Imprint Laws (Memories, Energy, Velocity) | Causality, Power, Systems of Relationship |
+| Y = 0.9 | Derivatives of Fundamental Laws (Mass, Vibration, Frequency) | Einstein’s \(E=mc^2\), Gravity, Light, Dark Matter |
+| Y = 0.8 | Emergent Systems (Power, Intent, Causality) | Quantum Field Theory, Higgs Field, Space-Time Curvature |
+| Y = 0.7 | Structured Laws (Complex Interactions of the emerging systems) | Maxwell’s Equations, Lorentz Force, Quantum Entanglement |
+| Y = 0.6 | Conditional Laws (Observable but requiring high energy to access from their more fluctuating nature) | Thermodynamics, Black Hole Radiation, Strong & Weak Nuclear Forces |
+| Y = 0.5 | Amplification & Transformation (Force & Motion Relationships) | Doppler Effect, Uncertainty Principle, Kirchhoff’s Laws |
+| Y = 0.4 | Empowerment (How actions reinforce causality) | Electromagnetic Induction, Stefan-Boltzmann Law |
+| Y = 0.2-0.3 | Simple Cause & Effect Laws (Macroscopic Physical Relationships) | Newton’s Laws, Boyle’s Law, Ohm’s Law, Archimedes' Principle |
+
 ### **3.1 Memory as the Governing Force of Reality**
 
 Memory dictates force interactions, causality, and system evolution. The equations below provide the mathematical structure for this principle:
@@ -42,7 +54,7 @@ Memory dictates force interactions, causality, and system evolution. The equatio
 
 This ensures memory-driven energy conservation and stability over time.
 
-### **3.2 Expansion to a 3D Galactic Model**
+### **3.2 Expansion to a 3D Galactic Model and the observations made**
 
 Instead of restricting motion to 2D, we now simulate **3D orbits** with:
 
@@ -69,8 +81,6 @@ Anyone studying this framework can begin by:
 By systematically incorporating memory-driven equations, users can predict and manipulate interactions in diverse scientific fields.
 
 ---
-
-**Future Implications & Research**
 
 ### ✅ **TOE Updated with Memory Field Integration**  
 
