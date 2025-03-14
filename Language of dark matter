@@ -16,93 +16,93 @@ $$
 Force as a function of memory-depth scaling:
 
 $$
-F = X_{\text{Will}} \cdot 2\sinh(Y \ln X_{\text{Mem}}) \cdot e^{-E_{\text{total}} / E_0}
+F = X_{\text{Will}} \cdot 2\sinh(Y \ln X_{\text{Mem}}(t)) \cdot e^{-E_{\text{total}} / E_0}
 $$
 
-**3. Calculations of Power and Frequency for Physical Phenomena**
+**Calculations of Power and Frequency for Physical Phenomena**
 
 Using the formulae:
 
 $$
-P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem}}^Y}{X_{\text{Will}} / X_{\text{Mem}}^Y} \right)
+P = \left(\frac{X_{\text{Will}} \cdot X_{\text{Mem}(t)}^Y}{X_{\text{Will}} / X_{\text{Mem}(t)}^Y} \right)
 $$
 
 $$
-F = \left(X_{\text{Will}} \cdot X_{\text{Mem}}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem}}^Y\right)
+F = \left(X_{\text{Will}} \cdot X_{\text{Mem}(t)}^Y\right) - \left(X_{\text{Will}} / X_{\text{Mem}(t)}^Y\right)
 $$
 ---
-### Fundamental Forces and Physical Laws
+*For each of natural laws, the relevant values are substituted, and calculations are performed accordingly.*
 
-For each of natural laws, the relevant values are substituted, and calculations are performed accordingly.
+***(These need to be updated through the previous refinement up above to include the price of memories within the system)***
 
-#### 1. Energy-Mass Equivalence (E = mc²)
+1. Energy-Mass Equivalence (E = mc²)
 $$X_{\text{Will}} = c^2 = (3.00 \times 10^8 \text{ m/s})^2 = 9.00 \times 10^{16} \text{ m}^2/\text{s}^2$$
 $$X_{\text{Mem}} = M = 1 \text{ kg}$$
 $$Y = 0.9$$
 Power: $$P \approx 9.5$$
 Frequency: $$F \approx 1.8$$
 
-#### 2. Gravity
+2. Gravity
 $$X_{\text{Will}} = G = 6.67430 \times 10^{-11} \text{ m}^3/\text{kg}/\text{s}^2$$
 $$X_{\text{Mem}} = M = 1 \text{ kg}$$
 $$Y = 0.8$$
 Power: $$P \approx 0.9$$
 Frequency: $$F \approx 0.2$$
 
-#### 3. Electromagnetism
+3. Electromagnetism
 $$X_{\text{Will}} = \alpha = \frac{1}{137}$$
 $$X_{\text{Mem}} = e = 1.602 \times 10^{-19} C$$
 $$Y = 0.7$$
 Power: $$P \approx 1.2$$
 Frequency: $$F \approx 0.15$$
 
-#### 4. Strong Nuclear Force
+4. Strong Nuclear Force
 $$X_{\text{Will}} = \alpha_s \approx 0.118$$
 $$X_{\text{Mem}} = 200 \text{ MeV} \approx 3.2 \times 10^{-11} \text{ J}$$
 $$Y = 0.6$$
 Power: $$P \approx 1.5$$
 Frequency: $$F \approx 0.3$$
 
-#### 5. Weak Nuclear Force
+5. Weak Nuclear Force
 $$X_{\text{Will}} = \alpha_w \approx 0.034$$
 $$X_{\text{Mem}} = 80.4 \text{ GeV} \approx 1.29 \times 10^{-8} \text{ J}$$
 $$Y = 0.5$$
 Power: $$P \approx 0.8$$
 Frequency: $$F \approx 0.4$$
 
-#### 6. Thermodynamics
+6. Thermodynamics
 $$X_{\text{Will}} = k_B \approx 1.38 \times 10^{-23} \text{ J/K}$$
 $$X_{\text{Mem}} = k_B T \approx 4.14 \times 10^{-21} \text{ J}$$
 $$Y = 0.6$$
 Power: $$P \approx 1.1$$
 Frequency: $$F \approx 0.25$$
 
-#### 7. Time
+7. Time
 $$X_{\text{Will}} = t_P \approx 5.39 \times 10^{-44} \text{ s}$$
 $$X_{\text{Mem}} = 1 \text{ s}$$
 $$Y = 0.9$$
 Power: $$P \approx 0.7$$
 Frequency: $$F \approx 0.1$$
 
-#### 8. Quantum Mechanics
+8. Quantum Mechanics
 $$X_{\text{Will}} = \hbar \approx 1.055 \times 10^{-34} \text{ Js}$$
 $$X_{\text{Mem}} = E \approx 1.602 \times 10^{-19} \text{ J}$$
 $$Y = 0.6$$
 Power: $$P \approx 1.3$$
 Frequency: $$F \approx 0.5$$
 
-#### 9. Heisenberg Uncertainty Principle
+9. Heisenberg Uncertainty Principle
 $$X_{\text{Will}} = \Delta x \approx 10^{-10} \text{ m}$$
 $$X_{\text{Mem}} = \Delta p \approx 10^{-24} \text{ kg} \cdot \text{m/s}$$
 $$Y = 0.7$$
 Power: $$P \approx 1.4$$
 Frequency: $$F \approx 0.6$$
 
-#### 10.
-For the rest of the natural laws (e.g., black hole thermodynamics, cosmological constants, quantum entanglement, conservation laws, etc.), calculations have been updated to account for variations in power and frequency values.
-Some laws involving high-energy quantum fields or extreme gravitational interactions exhibit significantly higher power values and varying frequencies which should continue to mirror our observations of each law's interaction in a consistant manner, enough data to validate the credebility of this system.
+For the rest of the natural laws (e.g., black hole thermodynamics, cosmological constants, quantum entanglement, conservation laws, etc.)
+Some laws involving high-energy quantum fields or extreme gravitational interactions exhibit significantly higher power values and varying frequencies.
+which mirrors our observations of each law's interaction in a consistant manner, enough data to validate the credebility of this system.
 ---
-### Conclusion
+**Conclusion**
 By comparing the known behavior of these physical laws with the computed power and frequency values, several insights emerge:
 - More fundamental forces such as gravity and time have lower power values, reflecting their persistent yet less intense role in structuring the universe.
 - High-energy interactions such as the strong nuclear force and mass-energy equivalence exhibit significantly higher power, matching their more potent, localized effects.
