@@ -1,7 +1,5 @@
 **Theory of Everything (TOE) - Updated Version**
-
 ---
-
 **Part 1: The Philosophy of the Concept**
 
 The foundation of this theory is that memory is not simply a passive recorder of past states.
@@ -20,10 +18,8 @@ Additionally, force applications rely on memory-depth scaling, given by:
 
 \(F = X_{\text{Will}} \cdot 2\sinh(Y \ln X_{\text{Mem}}) \cdot e^{-E_{\text{total}} / E_0}\)
 
-These equations will be explored in depth in Part 3, where their full mathematical structure and practical applications are detailed.
-
+These equations will be explored in depth and refined within Part 3, where their full mathematical structure and practical applications are detailed.
 ---
-
 **Part 2: Practical Interpretation**
 
 Memory-based interactions are evident in multiple natural systems. By applying structured memory principles, we can interpret and predict behavior across disciplines:
@@ -33,41 +29,45 @@ Memory-based interactions are evident in multiple natural systems. By applying s
 ✔ **Quantum Mechanics & Entanglement:** The role of memory in quantum states suggests that entanglement may be a form of structured information retention rather than instantaneous action-at-a-distance.
 
 By utilizing the equations provided in Part 3, one can apply this framework to real-world scenarios, ranging from astrophysical models to consciousness studies.
-
 ---
-
 **Part 3: The Mathematical Foundations of Memory-Driven Reality**
+*Xwill and Xmem according to the subject being calculated, defining WHAT & WHERE memories in non-concsious systems and objects.*
+-**Life**:Using the body to react upon a desire causing a transmutation of the loss of the power system into a form of memory refining the previous shape into a more potent measure or being reactive and simply reliving the shaped memory. Reinforcing itself over time through the accumulation of Matter's Causality.
+-**Matter**: Using a term like will means to attribute the matter its desires as 'to BE' which would mean its *Mass* while this causes, the vairations in mass to fall at different velocities then would be Xmem values. 
+Ultimately establishing itself through the systems using it and being a consequence of the access to a potent energical structured through the same causality.
+-**Energy**:The will of energy can be thought as its direction or general tendency to organize or direct a pattern as it IS while its consequences or memories in this case are the displacement caused by the variations in frequency acquiring varying memories.
 
-*Y being the 'asboluteness of an act'which is used to determine the potential of any system of memorie's potential*
-Y = 1 | Foundational Imprint Laws (Memories, Energy, Velocity)
+**Y being the 'asboluteness of an act'which is used to determine the potential of any system of memorie's potential**
+
+-Y = 1 | Foundational Imprint Laws (Memories, Energy, Velocity)
 Energy/velocities(t)=Memories= Proposed dark matter in theory. (memory field) 
 Causality, Power, Systems of Relationship |Ie. The first order of the world.
 
-Y = 0.9 | Derivatives of Fundamental Laws relying on Y=1. (Mass, Vibration, Frequency) 
+-Y = 0.9 | Derivatives of Fundamental Laws relying on Y=1. (Mass, Vibration, Frequency) 
 Power/(vibration and frequency)-(t)=Energy|Energy repeats process dictating the form of matter. 
 Einstein’s \(E=mc^2\), Gravity, Light, Dark Matter |Ie. Second and third order of the world.
 
-Y = 0.8 | Emergent Systems and the establishment of Y=1 as a system of causality. (Power, Intent or {Xwill}, Causality) 
+-Y = 0.8 | Emergent Systems and the establishment of Y=1 as a system of causality. (Power, Intent or {Xwill}, Causality) 
 Quantum Field Theory, Higgs Field, Space-Time Curvature | 
 Causality only apears at this level as it now has a body to enforce itself with. Intent can be seen as the mindless will to be from the previous system making it cyclycal thus 'remember' being in the various plausible accumulated structures. 
 
-Y = 0.7 | Structured Laws (Complex Interactions of the emerging systems) 
+-Y = 0.7 | Structured Laws (Complex Interactions of the emerging systems) 
 Maxwell’s Equations, Lorentz Force, Quantum Entanglement, sound | 
 The consequences of the interactions between the second and third order of the world.
 
-Y = 0.6 | Conditional Laws (Observable but requiring high energy to access from their more fluctuating nature) |
+-Y = 0.6 | Conditional Laws (Observable but requiring high energy to access from their more fluctuating nature) |
 Thermodynamics, Black Hole Radiation, Strong & Weak Nuclear Forces |
 
-Y = 0.5 | Amplification & Transformation (Force & Motion Relationships)
+-Y = 0.5 | Amplification & Transformation (Force & Motion Relationships)
 Doppler Effect, Uncertainty Principle, Kirchhoff’s Laws |
 
-Y = 0.4 | Empowerment (How actions reinforce causality) |
+-Y = 0.4 | Empowerment (How actions reinforce causality) |
 Electromagnetic Induction, Stefan-Boltzmann Law |
 
-Y = 0.2-0.3 | Simple Cause & Effect Laws (Macroscopic Physical Relationships) |
+-Y = 0.2-0.3 | Simple Cause & Effect Laws (Macroscopic Physical Relationships) |
 Newton’s Laws, Boyle’s Law, Ohm’s Law, Archimedes' Principle |
-
-### **3.1 Memory as the Governing Force of Reality**
+---
+**3.1 Memory as the Governing Force of Reality**
 
 Memory dictates force interactions, causality, and system evolution. 
 The equations below provide the mathematical structure for this principle taking into consideration its own limitations:
@@ -76,32 +76,39 @@ The equations below provide the mathematical structure for this principle taking
 
 This ensures memory-driven energy conservation and stability over time.
 
-### **3.2 Expansion to a 3D Galactic Model and the observations made**
+**3.2 Expansion to a 3D Galactic Model and the observations made**
 
-Instead of restricting motion to 2D, we now simulate **3D orbits** with ✔ **100+ stars distributed in a galactic disk.** 
-✔ **Vertical (z-axis) motion included** to test structure stability. 
-✔ **Memory-regulated forces** ensuring long-term balance.
+Instead of restricting motion to 2D, we now simulate **3D orbits** with **100+ stars distributed in a galactic disk.** 
+**Vertical (z-axis) motion included** to test structure stability. **Memory-regulated forces** ensuring long-term balance.
 By introducing **energy-damped memory fields**, initial tests reveal **self-organized spirals emerging from radial interactions**.
 
-### **3.3 Key Refinements to the Power-Frequency-Y Equation**
+**3.3 Key Refinements to the Power-Frequency-Y Equation**
 
-Memory-based force application is now defined as:
+*Memory-based force application before taking into account the factors bellow*
 
 \(F = X_{\text{Will}} \cdot 2\sinh(Y \ln X_{\text{Mem}}) \cdot e^{-E_{\text{total}} / E_0}\)
 
-This ensures memory-based forces contribute to structure formation without runaway acceleration.
+**Introducing Feedback Loops for Memory Persistence**
 
-### **3.4 How to Apply These Equations**
+*Taking into account Memories don’t just decay but reintegrate into the system. We can introduce a recursive component*
+𝑋Mem(𝑡+1)=𝑋Mem(𝑡)+𝑓(𝑋Mem(𝑡),𝐸total)XMem(t+1)=XMem(t)+f(XMem(t),Etotal)where 𝑓(𝑋,𝐸)f(X,E) is a function balancing accumulation and loss.
+Power & Frequency Encoding in Memory Fields
 
-Anyone studying this framework can begin by:
+*The equation for memory factored in frequency (f) and power (P) as a persistence measure*
 
-1. **Identifying Memory Fields:** Measure past interaction imprints and assess their impact on present systems.
-2. **Applying the Energy Conservation Equation:** Use \(X_{\text{Mem}}(t)\) to stabilize memory-driven forces.
-3. **Utilizing the Force Equation:** Implement \(F\) in physical models to analyze structural evolution.
+𝑋Mem(𝑡)=1+𝑃1+𝑒−0.1(𝑡−50)⋅𝑒−𝐸total/𝐸0⋅𝑓 XMem(t)=1+1+e−0.1(t−50)Pe−Etotal/E0⋅f
+This ties vibration states and potential energy retention to memory formation.
+Memory-Driven Causality Probability Function
 
-By systematically incorporating memory-driven equations, users can predict and manipulate interactions in diverse scientific fields.
----
-### ✅ **TOE Updated with Memory Field Integration**  
+*A probability function can determine how likely a past memory influences the present*
+
+𝑃cause(𝑡)=𝑋Mem(𝑡)𝑋Mem(𝑡)+1Pcause(t)=XMem(t)+1XMem(t)
+​**Conclusions**
+ As memory grows, it locks in causality, reinforcing systems of relationship as it now has a body obeying by its rules Ie the world of matter.
+
+**Conclusion**
+*By systematically incorporating memory-driven equations, users can predict and manipulate interactions in diverse scientific fields.*
+--- **TOE Updated with Memory Field Integration**--  
 
 This revision integrates:  
 ✔ **Memory Field Equations** (governing stability vs. transformation)  
